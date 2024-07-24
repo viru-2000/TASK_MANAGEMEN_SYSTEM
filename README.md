@@ -32,7 +32,7 @@ The Task Management System is a Java-based application designed for managing tas
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/task-management-system.git
+   git clone : https://github.com/viru-2000/TASK_MANAGEMEN_SYSTEM/tree/main
    cd task-management-system
 
 2. **Configure the database:**

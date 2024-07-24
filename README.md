@@ -46,7 +46,7 @@ The Task Management System is a Java-based application designed for managing tas
 If using Maven, run:
 -  **mvn clean install**
 
-4.** Run the application:**
+4. ** Run the application:**
 
 - Compile and run the Java application using your IDE or command line.
 

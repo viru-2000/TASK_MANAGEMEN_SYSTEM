@@ -61,18 +61,28 @@ If using Maven, run:
 - Here is an example of how to add a new client:
   
    Client client = new Client();
+  
    client.setClientName("John Doe");
+  
    client.setClientEmail("john.doe@example.com");
+  
    ClientService clientService = new ClientService();
+  
    clientService.addClient(client);
 
 **Contributing**
-1.Fork the repository.
-2.Create a new branch (git checkout -b feature-branch).
-3.Commit your changes (git commit -am 'Add new feature').
-4.Push to the branch (git push origin feature-branch).
-5.Create a new Pull Request.
+   1. Fork the repository.
+
+   2. Create a new branch (git checkout -b feature-branch).
+
+   3. Commit your changes (git commit -am 'Add new feature').
+
+   4. Push to the branch (git push origin feature-branch).
+
+   5. Create a new Pull Request.
 
 **Acknowledgments**
--JDBC for database connectivity.
--Java for building the application.
+
+ - JDBC for database connectivity.
+
+ - Java for building the application.
